@@ -1,1 +1,1 @@
-# Ishod2
+.Provjera 2. ishoda, Ana Kožul 27.11.2025
